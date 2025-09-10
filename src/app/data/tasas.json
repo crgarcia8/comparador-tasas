@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "davivienda",
+    "bank": "Davivienda",
+    "card": "Tarjeta de Crédito Davivienda Clásica",
+    "tea": 0.36
+  },
+  {
+    "slug": "bancolombia",
+    "bank": "Bancolombia",
+    "card": "Tarjeta de Crédito Bancolombia Mastercard",
+    "tea": 0.34
+  },
+  {
+    "slug": "nu",
+    "bank": "Nu",
+    "card": "Tarjeta de Crédito Nu",
+    "tea": 0.25
+  },
+  {
+    "slug": "bbva",
+    "bank": "BBVA",
+    "card": "Tarjeta de Crédito BBVA Visa Clásica",
+    "tea": 0.33
+  },
+  {
+    "slug": "colpatria",
+    "bank": "Scotiabank Colpatria",
+    "card": "Tarjeta de Crédito Colpatria One Light",
+    "tea": 0.32
+  }
+]
